@@ -1,6 +1,8 @@
 {
   "name": "SinMultas",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "ab23930f"
 }
